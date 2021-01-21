@@ -1,0 +1,59 @@
+abcdef...
+
+binário 0 1
+
+numérico 0123456789
+
+hexadecimal 0123456789ABCDEF
+
+RGB = RED GREEN BLUE
+
+REPRESENTAÇÃO DAS CORES NO CSS {
+
+    Representação por Hexadecimal {
+
+        # _ _ _ _ _ _
+
+        dois primeiros espaços são para o RED
+        dois espaços do meio são para GREEN
+        dois espaços do fim são para o BLUE
+
+        0 == ausência de cor
+
+        F == máximo de cor
+
+
+        Black: #000000
+
+        White: #FFFFFF
+
+        Red: #FF0000
+
+        Green: #00FF00
+
+        Blue: #0000FF
+
+    }
+
+
+    Representação por Nome {
+        escrevendo: red, blue, green;
+    }
+
+
+
+    Representação com RGB {
+        RGB: 0,1,2,3,...255
+
+        0 == ausência de cor
+
+        255 == máximo de cor
+
+
+
+        White: rgb(255,255,255)
+
+        Blue: rgb(0,0,255)
+    }
+
+}
